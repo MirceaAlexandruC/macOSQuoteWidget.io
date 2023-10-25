@@ -1,0 +1,1 @@
+# macOSQuoteWidget.io
