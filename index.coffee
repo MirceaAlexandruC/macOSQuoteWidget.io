@@ -1,6 +1,6 @@
-command: 'cat ~/inspirationalQuotes.json' #read the file
+command: 'cat ~/inspirationalQuotes.json' #read the json file
 
-refreshFrequency: 5000  # Refresh every 5 seconds
+refreshFrequency: 10000  # Refresh every 10 seconds
 
 style: """
   position: absolute;
